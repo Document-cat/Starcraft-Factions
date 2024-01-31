@@ -26,6 +26,15 @@
   padding-right: 10vw;
 }
 
+.navbar :hover {
+  text-decoration: none;
+  color: white;
+  background-color: #3f7d7f;
+  font-family: sans-serif;
+  font-size: 25px;
+  padding-right: 10vw;
+}
+
 .logo {
   text-decoration: none;
   color: white;
