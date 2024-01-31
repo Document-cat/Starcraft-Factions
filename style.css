@@ -1,0 +1,36 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.Header {
+  background-color: CadetBlue;
+  padding: 10px;
+}
+
+.navbar {
+  list-style-type: none;
+  text-align: center;
+}
+
+.navbar li {
+  display: inline-block;
+}
+
+.navitem a {
+  text-decoration: none;
+  color: white;
+  background-color: CadetBlue;
+  font-family: sans-serif;
+  font-size: 25px;
+  padding-right: 10vw;
+}
+
+.logo {
+  text-decoration: none;
+  color: white;
+  background-color: CadetBlue;
+  font-family: sans-serif;
+  font-size: 25px;
+  padding-right: 10vw;
+}
